@@ -1,0 +1,1 @@
+var t={id:"kill_port",name:"Kill Port",icon:"hide_source",description:"To terminate a specific port",overview:({port:t})=>[{label:"Port to kill",text:t}],options:[{field:"port",name:"Port to kill",type:"string",meta:{width:"full",interface:"input"}}]};export{t as default};
